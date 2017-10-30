@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Oleg O"
+title                    : "Oleg Ovcharenko"
 title_separator          : "|"
 name                     : &name "Oleg Ovcharenko"
-description              : "This is personal website of Oleg Ovcharenko - PhD student in Computational Geophysics at KAUST"
+description              : "This is personal webspage of Oleg Ovcharenko - PhD student in Computational Geophysics at KAUST"
 url                      : "https://ovcharenkoo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
