@@ -18,6 +18,8 @@
 
   a {
     color: inherit;
+//    color: $primary-color;
+//    color: mix($primary-color, $text-color, 75%);
     text-decoration: none;
   }
 }

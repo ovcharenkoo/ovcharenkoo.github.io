@@ -92,6 +92,7 @@
   }
 
   a:not(.btn) {
+    color: $link-color;
 
     &:hover {
       text-decoration: underline;
