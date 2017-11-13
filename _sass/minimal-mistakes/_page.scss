@@ -93,9 +93,11 @@
 
   a:not(.btn) {
     color: $link-color;
+    // text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      // text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -123,6 +125,22 @@
   blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
+  }
+}
+
+.home__custom{
+  a:not(.btn) {
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+      // text-decoration: underline;
+      text-decoration: none;
+
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
   }
 }
 
