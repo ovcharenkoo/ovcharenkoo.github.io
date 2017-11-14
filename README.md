@@ -5,6 +5,7 @@ This repository contains source codes for my personal webpage [ovcharenkoo.githu
 # How to run on local machine
 
 bundle exec jekyll build --incremental --watch
+
 bundle exec jekyll serve
 
 Go to 127.0.0.1:4000 and check the result 

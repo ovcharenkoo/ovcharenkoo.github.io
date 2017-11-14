@@ -1,5 +1,7 @@
 ---
 title: "Transparent background when saving figures in Matlab (e.g png, eps etc.)"
+tags:
+  - Matlab
 ---
 
 Often you need to generate multiple figures with transparent background in order to put them directly into TeX document or presentation, but Matlab is prone to saving with white background using `print` 
