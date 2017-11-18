@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /
-  - title: "Notes"
-    url: /year-archive/
+ # - title: "Notes"
+#   url: /year-archive/
 #  - title: "Publications"
 #    url: /publications/
   - title: "CV"

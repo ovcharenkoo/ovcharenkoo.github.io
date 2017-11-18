@@ -78,6 +78,10 @@
     font-size: 1em;
   }
 
+  ul {
+    line-height: 85%
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
