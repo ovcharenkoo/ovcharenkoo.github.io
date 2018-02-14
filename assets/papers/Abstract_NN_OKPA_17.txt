@@ -2,5 +2,6 @@
 	title={Neural network based low-frequency data extrapolation},
 	author={Ovcharenko, Oleg and Kazei, Valdimir and Peter, Daniel and Alkhalifah, Tariq},
 	booktitle={3rd SEG FWI workshop Technical Program Expanded Abstracts},
+	URL={https://ovcharenkoo.github.io/assets/papers/Abstract_NN_OKPA_17.pdf},
 	year={2017}
 }
