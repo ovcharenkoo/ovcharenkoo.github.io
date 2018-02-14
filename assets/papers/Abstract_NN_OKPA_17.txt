@@ -1,4 +1,4 @@
-@incollection{ovcharenko2017nn,
+@inproceedings{ovcharenko2017nn,
 	title={Neural network based low-frequency data extrapolation},
 	author={Ovcharenko, Oleg and Kazei, Valdimir and Peter, Daniel and Alkhalifah, Tariq},
 	booktitle={3rd SEG FWI workshop Technical Program Expanded Abstracts},
