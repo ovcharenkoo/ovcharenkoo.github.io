@@ -192,6 +192,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-scholar
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -238,6 +239,8 @@ compress_html:
   ignore:
     envs: development
 
+scholar:
+  style: mla
 
 # Defaults
 defaults:
