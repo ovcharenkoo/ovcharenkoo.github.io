@@ -13,15 +13,17 @@ tags:
 3. Install cuDNN
 4. Install Anaconda
 5. Open terminal and type one-by-one the following commands
-
-    conda create -n EnvName python=3.6 pip spyder
-    conda install -n EnvName tensorflow-gpu
-    conda install -n EnvName -c conda-forge keras-gpu
-
+```
+conda create -n EnvName python=3.6 pip spyder
+conda install -n EnvName tensorflow-gpu
+conda install -n EnvName -c conda-forge keras-gpu
+```
 
 Use it
 
-    source activate EnvName
-    spyder . &
+```
+source activate EnvName
+spyder . &
+```
 
 Done.
