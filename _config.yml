@@ -55,7 +55,7 @@ atom_feed:
 search_full_content      : true
 
 # SEO Related
-google_site_verification : UA-116659370-1
+google_site_verification : 2dfd697c4c3fcfb8
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -78,9 +78,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-116659370-1
 
 
 # Site Author
