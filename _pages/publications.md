@@ -4,7 +4,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Drafts of some works are published here
+Drafts of some works are published here. Check also [Google Scholar](https://scholar.google.com/citations?user=MX75GS8AAAAJ&hl=fr).
 
 ___
 1. **Neural network based low-frequency data extrapolation**  
