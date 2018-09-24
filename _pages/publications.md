@@ -6,7 +6,9 @@ title: "Publications"
 
 Drafts of some works are published here. 
 
-Click here --> [**Google Scholar**](https://scholar.google.com/citations?user=MX75GS8AAAAJ&hl=fr) <-- to check out FULL LIST.
+Click here --> [**Google Scholar**](https://scholar.google.com/citations?user=MX75GS8AAAAJ&hl=fr) <-- to check FULL LIST of publications. 
+
+Click here —-> [**ResearchGate profile**](https://www.researchgate.net/profile/Oleg_Ovcharenko) <— to check my ResearchGate profile.
 
 ___
 1. **Low-Frequency Data Extrapolation Using a Feed-Forward ANN**  
