@@ -42,7 +42,7 @@ layout: single
 
   </p>
 
-<!--
+  <!--
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
@@ -51,30 +51,88 @@ layout: single
 
 {% include paginator.html %}
 -->
-
-<hr>
-
-<h3>News</h3>
-<p>
+  <hr>
+  <h3>Recent research</h3>
   <ul>
-    <li><span class="date">17/09/18</span>: Released v.1.0 <a href="https://ovcharenkoo.github.io/WaveProp_in_MATLAB/">WaveProp in MATLAB</a>. Single-file scripts for 2D and 3D, acoustic and elastic FDTD wave propagation. Intended to be a set of simple codes for beginners</li>
+    <!-- ============================== -->
+    <li>
+      <h3><a href="http://www.earthdoc.org/publication/publicationdetails/?publication=92618">Low-Frequency Data
+          Extrapolation Using a Feed-Forward ANN</a></h3>
+      <p>
+        We explored the feasibility of frequency-bandwidth extrapolation using an Artificial Neural Network (ANN)
+        approach. The ANN is trained to be a non-linear operator that maps high-frequency data for a single source and
+        multiple receivers to low-frequency data.
+        <img src="/assets/images/research/lowfreq2018.png" alt="">
+      </p>
+    </li>
+    <!-- ============================== -->
 
-    <li>07/09/18: Our paper <a href="https://library.seg.org/doi/abs/10.1190/geo2017-0575.1">Variance-based model interpolation for improved full-waveform inversion in the presence of salt bodies</a> publised in GEOPHYSICS</li>
+    <!-- ============================== -->
+    <li>
+      <h3><a href="http://www.searchanddiscovery.com/pdfz/documents/2018/42212ovcharenko/ndx_ovcharenko.pdf.html">Feasibility
+          of moment tensor inversion from a single borehole data using Artificial Neural Networks</a></h3>
+      <p>
+          We discuss the feasibility of using artificial neural networks for moment tensor inversion of three-component microseismic data from a single
+          vertical well. For this purpose, we solve a nonlinear regression problem using a feed-forward artificial neural network (ANN).
+          <img src="/assets/images/research/mt2018.png" alt="">
+      </p>
+    </li>
+    <!-- ============================== -->
 
-    <li>13/06/18: E-poster <a href="/assets/papers/Ovcharenko_EAGE_2018_blue.pdf">Low-Frequency Data Extrapolation Using a Feed-Forward ANN</a> at EAGE 2018, Copenhagen, Denmark</li>
 
-    <li>06/03/18: Presenting <a href="/assets/papers/GEO_03_18_small.pdf">Feasibility of moment tensor inversion for a single-well microseismic data using neural networks</a> at GEO 18, Manama, Bahrain</li>
+    <!-- ============================== -->
+    <li>
+      <h3><a href="https://library.seg.org/doi/abs/10.1190/geo2017-0575.1">Variance-based automated salt flooding for
+          FWI</a></h3>
+      <p>
+        We have developed a variance-based method for reconstruction of velocity models to resolve the imaging and
+        inversion issues caused by salt bodies. Our main idea lies in retrieving useful information from independent
+        updates corresponding to FWI at different frequencies.
+        <img src="/assets/images/research/vbsf2018.png  " alt="">
+      </p>
+    </li>
+    <!-- ============================== -->
 
-    <li>20/02/18: Awarded 1st trophy at <a href="https://www.hpc.kaust.edu.sa/GPU-2018#Organizers">KAUST-NVIDIA Hackathon 2018</a>. <a href="https://github.com/vkazei">Vladimir Kazei</a> and I were porting a seismic wave propagation modeling to GPU</li>
-
-    <li>04/12/17: Presenting at SEG FWI Workshop: Where are we getting?  Talked there on neural network-based low-frequency data extrapolation, Manama, Bahrain</li>
-
-    <li>14/06/17: Presenting <a href="/assets/papers/Ovcharenko_EAGE17.pdf">Variance-based salt body reconstruction</a> at EAGE 2018, Paris, France</li>
-
-    <li>21/04/17: Successfully passed Qualification Examination at KAUST</li>
-
-    <li>15/03/17: 3rd place worldwide in the <a href="https://smi.kaust.edu.sa/Pages/News-2017-03-15.aspx">EAGE GeoQuiz</a> as a team</li>
 
   </ul>
-</p>
+
+
+
+
+
+
+  <hr>
+  <h3>News</h3>
+  <p>
+    <ul>
+      <li><span class="date">17/09/18</span>: Released v.1.0 <a href="https://ovcharenkoo.github.io/WaveProp_in_MATLAB/">WaveProp
+          in MATLAB</a>. Single-file scripts for 2D and 3D, acoustic and elastic FDTD wave propagation. Intended to be
+        a set of simple codes for beginners</li>
+
+      <li>07/09/18: Our paper <a href="https://library.seg.org/doi/abs/10.1190/geo2017-0575.1">Variance-based model
+          interpolation for improved full-waveform inversion in the presence of salt bodies</a> publised in GEOPHYSICS</li>
+
+      <li>13/06/18: E-poster <a href="/assets/papers/Ovcharenko_EAGE_2018_blue.pdf">Low-Frequency Data Extrapolation
+          Using a Feed-Forward ANN</a> at EAGE 2018, Copenhagen, Denmark</li>
+
+      <li>06/03/18: Presenting <a href="/assets/papers/GEO_03_18_small.pdf">Feasibility of moment tensor inversion for
+          a single-well microseismic data using neural networks</a> at GEO 18, Manama, Bahrain</li>
+
+      <li>20/02/18: Awarded 1st trophy at <a href="https://www.hpc.kaust.edu.sa/GPU-2018#Organizers">KAUST-NVIDIA
+          Hackathon 2018</a>. <a href="https://github.com/vkazei">Vladimir Kazei</a> and I were porting a seismic wave
+        propagation modeling to GPU</li>
+
+      <li>04/12/17: Presenting at SEG FWI Workshop: Where are we getting? Talked there on neural network-based
+        low-frequency data extrapolation, Manama, Bahrain</li>
+
+      <li>14/06/17: Presenting <a href="/assets/papers/Ovcharenko_EAGE17.pdf">Variance-based salt body reconstruction</a>
+        at EAGE 2018, Paris, France</li>
+
+      <li>21/04/17: Successfully passed Qualification Examination at KAUST</li>
+
+      <li>15/03/17: 3rd place worldwide in the <a href="https://smi.kaust.edu.sa/Pages/News-2017-03-15.aspx">EAGE
+          GeoQuiz</a> as a team</li>
+
+    </ul>
+  </p>
 </section>
