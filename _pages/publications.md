@@ -7,7 +7,6 @@ title: "Publications"
 Click here --> [ **Google Scholar** ](https://scholar.google.com/citations?user=MX75GS8AAAAJ&hl=fr) <-- to check FULL LIST of publications. 
 
 Click here —-> [ **ResearchGate profile** ](https://www.researchgate.net/profile/Oleg_Ovcharenko) <— to check my ResearchGate profile.
-
 ___
 1. **Neural network based low-frequency data extrapolation**  
 Oleg Ovcharenko, Vladimir Kazei, Daniel Peter and Tariq Alkalifah  
