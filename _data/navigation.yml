@@ -4,7 +4,8 @@ main:
     url: /
   # - title: "Notes"
   #   url: /year-archive/
-  - title: "Papers"
-    url: /publications/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=MX75GS8AAAAJ&hl=en&oi=sra
+    # url: /publications/
   - title: "CV"
     url: /assets/cv/CV_OvcharenkoOleg.pdf

@@ -40,9 +40,9 @@ Use function in the following manner:
 Add `set(gcf, 'Color', 'None')` to your figure property or `-transparent` key when calling function  
 
     save_path = '../pics/MyPic';
-    export_fig(save_path,'-png','-eps');
+    export_fig(save_path, '-png', '-eps', '-transparent');
 
 or:
 
-    export_fig ../pics/MyPic -png -eps;
+    export_fig ../pics/MyPic -png -eps -transparent;
 
