@@ -1,9 +1,11 @@
 #main links
 main:
-  - title: "About"
+  - title: "Home"
     url: /
   # - title: "Notes"
   #   url: /year-archive/
+  - title: "Bio"
+    url: /bio/
   - title: "Publications"
     url: https://scholar.google.com/citations?user=MX75GS8AAAAJ&hl=en&oi=sra
     # url: /publications/
