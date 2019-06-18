@@ -6,6 +6,8 @@ main:
   #   url: /year-archive/
   - title: "Bio"
     url: /bio/
+  - title: "Slides"
+    url: /slides/
   - title: "Publications"
     url: https://scholar.google.com/citations?user=MX75GS8AAAAJ&hl=en&oi=sra
     # url: /publications/
