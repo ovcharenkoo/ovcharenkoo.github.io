@@ -5,46 +5,34 @@ layout: single
 <section class="home__custom">
   <p>
     I am a PhD Candidate at <a href="https://www.kaust.edu.sa/en">King Abdullah University of Science and Technology</a> (KAUST) in <a href="https://smi.kaust.edu.sa/Pages/Home.aspx">Seismic Modeling and
-    Inversion group</a> run by <a href="http://danielpeter.github.io/index.html">Prof. Daniel Peter</a>. I am broadly interested in numerical methods in geophysics, which includes but not limited to <b>Machine Learning</b>, <b>Seismic Imaging</b>, <b>HPC</b> and <b>Natural Stress State Reconstruction</b>
+    Inversion group</a> run by <a href="http://danielpeter.github.io/index.html">Prof. Daniel Peter</a>. I am broadly interested in numerical methods in geophysics, which includes but not limited to <b>Machine Learning</b>, <b>Seismic Imaging</b> and <b>HPC</b>.
     <br><br>
     My PhD research is focused on developing ML-based methods to improve seismic inversion.
   </p>
 
   <hr>
-<!--
-  <h3>Bio</h3>
-  <p>
-    I grew up in Moscow and received my M.Sc degree in Physics from <a href="https://www.msu.ru/en/">Lomonosov
-      Moscow State University</a> in 2014. During the M.Sc program my research was focused on natural stress-state
-    reconstruction. I was working under the supervision of <a href="https://www.researchgate.net/profile/Yu_Rebetsky">Dr. Yu.L.
-      Rebetsky</a> in the tectonophysics lab at the <a href="http://www.ifz.ru/en/institute/">Schmidt Institute of
-      Physics of the Earth of the Russian Academy of Sciences</a>.</p>
 
-  <p>
-    In 2015 I got <a href="http://www.ipgp.fr/fr/international-master-of-research-in-exploration-geophysics-gpx">Master of Research in Exploration Geophysics (GPX)</a> from the <a href="http://www.ipgp.fr/fr">Institut
-      de Physique du Globe de Paris</a> (Paris VII) in Paris. There, I worked with <a href="http://www.ipgp.fr/en/fuji-nobuaki">Prof. Nobuaki
-      Fuji</a> and <a href="https://www.researchgate.net/profile/Roland_Martin/info">Dr. Roland Martin</a> (CNRS) on
-    accurate finite difference operators for synthetic seismogram calculation in areas with sharp lithological
-    interfaces.
-  </p>
-  <p>
-
-    Aside research activities I like learning languages, good food, BJJ, playing golf and guitar.
-  </p>-->
-
-  <!--
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
--->
   <!-- <hr> -->
   <h3>Recent research</h3>
   <ul>
-
+    <li>
+      <h3><a href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.202032054">Deep Learning for Seismic Data Reconstruction: Opportunities and Challenges</a></h3>
+      <p>
+        Research project from my internship in CGG, Crawley, UK. Under supervision of Song Hou I explored benefits and pitfalls of using GANs for seismic data reconstruction. In the nutsell, high perceptual realism of reconstructed seismic data is not sufficient for real-world application. Physics also should be constrained.
+        <!-- <br> -->
+        <i>First EAGE Digitalization Conference and Exhibition, Nov 2020</i>
+        <img src="/assets/images/research/cgg_2020_reconstruction.png" alt="">
+      </p>
+  </li>
+  <li>
+    <h3><a href="https://library.seg.org/doi/abs/10.1190/segam2020-3427522.1">Extrapolating low-frequency prestack land data with deep learning</a></h3>
+    <p>
+      In synthetic framework we explore capability of a simple neural network to reconstruct low-frequency components of land data.
+      <!-- <br> -->
+      <i>SEG Technical Program Expanded Abstracts 2020</i>
+      <img src="/assets/images/research/seg_2020_land_data.png" alt="">
+    </p>
+  </li>
     <li>
         <h3><a href="https://library.seg.org/doi/abs/10.1190/segam2019-3216349.1">Style transfer for generation of realistically textured subsurface models</a></h3>
         <p>
@@ -68,7 +56,7 @@ layout: single
       <!-- ============================== -->
 
 
-    <li>
+    <!-- <li>
       <h3><a href="http://www.earthdoc.org/publication/publicationdetails/?publication=92618">Low-Frequency Data
           Extrapolation Using a Feed-Forward ANN</a></h3>
       <p>
@@ -77,11 +65,11 @@ layout: single
         multiple receivers to low-frequency data.
         <img src="/assets/images/research/lowfreq2018.png" alt="">
       </p>
-    </li>
+    </li> -->
     <!-- ============================== -->
 
 
-    <li>
+    <!-- <li>
       <h3><a href="http://www.searchanddiscovery.com/pdfz/documents/2018/42212ovcharenko/ndx_ovcharenko.pdf.html">Feasibility
           of moment tensor inversion from a single borehole data using Artificial Neural Networks</a></h3>
       <p>
@@ -89,11 +77,11 @@ layout: single
           vertical well. For this purpose, we solve a nonlinear regression problem using a feed-forward artificial neural network (ANN).
           <img src="/assets/images/research/mt2018.png" alt="">
       </p>
-    </li>
+    </li> -->
 
 
     <!-- ============================== -->
-    <li>
+    <!-- <li>
       <h3><a href="https://library.seg.org/doi/abs/10.1190/geo2017-0575.1">Variance-based automated salt flooding for
           FWI</a></h3>
       <p>
@@ -102,7 +90,7 @@ layout: single
         updates corresponding to FWI at different frequencies.
         <img src="/assets/images/research/vbsf2018.png  " alt="">
       </p>
-    </li>
+    </li> -->
     <!-- ============================== -->
   </ul>
 
@@ -114,14 +102,20 @@ layout: single
   <hr>
   <h3>News</h3>
   <p>
-    <ul>
+    <ul>      
+      <li><span class="date">14/09/20</span>: Started internship as Geoscience (ML) Intern at ExxonMobil, Houston, USA.</li>
+
+      <li><span class="date">01/07/20</span>: Abstract "Extrapolating low-frequency prestack land data with deep learning" got accepted for an oral presentation at SEG 2020.</li>
+
+      <li><span class="date">01/03/20</span>: Abstract "Deep Learning for Seismic Data Reconstruction: Opportunities and Challenges" got accepted for an oral presentation at EAGE Digital 2020.</li>
+
       <li><span class="date">18/09/19</span>: <a href="https://github.com/vkazei">Vladimir Kazei</a> presented our work on style transfer for generation of realistic subsurface models at SEG Annual Meeting 2019 in San Antonio, USA. <a href="https://github.com/ovcharenkoo/geo-style-keras">Code available</a>!</li>
 
       <li><span class="date">06/08/19</span>: Started internship as Machine Learnin Engineer Intern at CGG, Crawley, UK.</li>
 
       <li><span class="date">13/06/19</span>: Awarded SEG ExxonMobil Upstream Research Company scolarship for the year 2019-2020!</li>
 
-      <li><span class="date">11/03/19</span>: Abstract "Transfer learning for low frequency extrapolation from shot gathers for FWI applications" got accepted for an oral presentation on June 6th at EAGE 2019 in London, UK.</li>
+      <!-- <li><span class="date">11/03/19</span>: Abstract "Transfer learning for low frequency extrapolation from shot gathers for FWI applications" got accepted for an oral presentation on June 6th at EAGE 2019 in London, UK.</li>
 
       <li><span class="date">29/01/19</span>: Published an easy to understand <a href="https://github.com/ovcharenkoo/CUDA_FDTD_2D_acoustic_wave_propagation">CUDA code for acoustic wave propagation</a> in a 2D domain. This uses shared memory tiles on device to partially eliminate redundant memory reads</li>
 
@@ -130,7 +124,7 @@ layout: single
       <li><span class="date">17/09/18</span>: Released v.1.0 <a href="https://ovcharenkoo.github.io/WaveProp_in_MATLAB/">WaveProp
           in MATLAB</a>. Single-file scripts for 2D and 3D, acoustic and elastic FDTD wave propagation. Intended to be a set of simple codes for beginners</li>
 
-      <li>07/09/18: Our paper <a href="https://library.seg.org/doi/abs/10.1190/geo2017-0575.1">Variance-based model interpolation for improved full-waveform inversion in the presence of salt bodies</a> got publised in GEOPHYSICS</li>
+      <li>07/09/18: Our paper <a href="https://library.seg.org/doi/abs/10.1190/geo2017-0575.1">Variance-based model interpolation for improved full-waveform inversion in the presence of salt bodies</a> got publised in GEOPHYSICS</li> -->
 
       <!-- <li>13/06/18: E-poster <a href="/assets/papers/Ovcharenko_EAGE_2018_blue.pdf">Low-Frequency Data Extrapolation
           Using a Feed-Forward ANN</a> at EAGE 2018, Copenhagen, Denmark</li>
