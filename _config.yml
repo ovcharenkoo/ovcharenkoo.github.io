@@ -87,8 +87,8 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/OvcharenkoOleg.jpg"
-  bio              : "PhD Candidate in Geophysics at KAUST. Paris VII and Lomonosov MSU graduate. Work in geophysics and ML."
-  location         : "Thuwal, Saudi Arabia"
+  bio              : "Solutions Architect at NVIDIA"
+  location         : "Dubai, UAE"
   email            : oleg.ovcharenko@kaust.edu.sa
   uri              :
   bitbucket        :
