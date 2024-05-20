@@ -8,8 +8,10 @@ main:
     url: /bio/
   - title: "Slides"
     url: /slides/
-  - title: "Code"
-    url: https://github.com/ovcharenkoo
+  - title: "Teaching"
+    url: /courses/
+  # - title: "Code"
+  #   url: https://github.com/ovcharenkoo
   - title: "Publications"
     url: https://scholar.google.com/citations?user=MX75GS8AAAAJ&hl=en&oi=sra
     # url: /publications/
