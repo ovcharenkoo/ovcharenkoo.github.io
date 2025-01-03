@@ -87,7 +87,7 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/OvcharenkoOleg.jpg"
-  bio              : "Sr. Solutions Architect at NVIDIA"
+  bio              : "Energy expert at NVIDIA"
   location         : "Dubai, UAE"
   email            : oleg.ovcharenko@kaust.edu.sa
   uri              :
@@ -103,7 +103,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "oleg-ovcharenko-62b22a98"
+  linkedin         : "ovcharenkoo"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
