@@ -14,7 +14,7 @@ title_separator          : "|"
 name                     : &name "Oleg Ovcharenko, PhD"
 description              : "This is personal website of Oleg Ovcharenko"
 url                      : "https://ovcharenkoo.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : ""  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/OvcharenkoOleg.jpg"
-  bio              : "Energy expert at NVIDIA"
+  bio              : "AI & Energy expert at NVIDIA"
   location         : "Dubai, UAE"
   email            : oleg.ovcharenko@kaust.edu.sa
   uri              :

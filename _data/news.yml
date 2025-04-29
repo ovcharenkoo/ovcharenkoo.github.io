@@ -1,0 +1,197 @@
+- date: "02/2025"
+  title: "Special Issue on Generative AI in Energy"
+  content: "Guest Editor in the Leading Edge Journal"
+  link: "https://library.seg.org/toc/leedff/44/2"
+  link_text: "Special Section: Generative and physics-informed AI"
+
+- date: "01/2025"
+  title: "Joining DevTech at NVIDIA"
+  content: "Ramping up the game by moving to DevTech at NVIDIA"
+  
+- date: "07/2024"
+  title: "Tahakom Developer Day"
+  content: "Talking about Generative AI and Digital Twins at Tahakom Developer Day in Riyadh, Saudi Arabia"
+  image: "/assets/images/tahakom_24.jpeg"
+  image_alt: "Oleg Ovcharenko speaking at Tahakom Developer Day on Generative AI and Digital Twins"
+  link: "https://x.com/tahakom_sa/status/1818307551643029667"
+  link_text: "Tahakom Developer Day"
+  
+- date: "06/2024"
+  title: "EAGE Annual in Oslo"
+  content: "Giving a talk at EAGE Annual in Oslo, Norway"
+  link: "https://www.slideshare.net/slideshow/text-guided-well-log-constrained-realistic-subsurface-model-generation-via-stable-diffusion/270634335"
+  link_text: "Text-guided well-log constrained realistic subsurface model generation via Stable Diffusion"
+- date: "05/2024"
+  title: "BeeTech 2024"
+  content: "Invited speaker at BeeTech 2024 talking about building enterprise assistants. Almaty, Kazakhstan"
+  link: "https://beetech.kz/"
+  link_text: "BeeTech 2024"
+  
+- date: "03/2024"
+  title: "GTC talk by Aramco"
+  content: "GTC talk by Aramco on our joint work"
+  link: "https://resources.nvidia.com/en-us-upstream-energies/gtc24-s62714?ncid=no-ncid"
+  link_text: "Pioneering the Integration of an AI Assistant into a Seismic Data Processing Workflow"
+
+# - date: "06/2023"
+#   title: "EAGE AI Committee Hackathon"
+#   content: "Hosting EAGE AI Committee hackathon on RAG at EAGE Annual conference in Vienna, Austria"
+#   link: "https://eage.org/communities/artificial-intelligence-community/"
+#   link_text: "EAGE AI Committee"
+
+- date: "06/2023"
+  title: "AI-Enabled Entrepreneurs Conference"
+  content: "Keynote speaker on Generative AI at AI-Enabled Entrepreneurs conference in the Museum of the Future, Dubai, UAE"
+  link: "https://www.moca.gov.ae/en/media/news/artificial-intelligence-office-holds-ai-enabled-entrepreneurs-conference-in-collaboration-with-nvidia"
+  link_text: "AI-Enabled Entrepreneurs conference"
+  image: "/assets/images/future_event.jpg"
+  image_alt: "https://wam.ae/en/details/1395303167526"
+
+- date: "06/2022"
+  title: "EAGE Annual"
+  content: "Attending EAGE Annual conference in Madrid, Spain"
+
+- date: "01/2022"
+  title: "Joined NVIDIA"
+  content: "Started as Solutions Architect for Energy at"
+  link: "https://www.nvidia.com/"
+  link_text: "NVIDIA"
+
+- date: "11/2021"
+  title: "PhD Defense"
+  content: "Successfully defended my PhD thesis, KAUST, Saudi Arabia."
+  link: "https://repository.kaust.edu.sa/items/1334db13-7736-4810-b0fa-587b1e02b294"
+  link_text: "\"Data-driven methods for the initialization of seismic full-waveform inversion\""
+
+- date: "09/2021"
+  title: "EAGE AI Committee"
+  content: "Joined "
+  link: "https://eage.org/communities/artificial-intelligence-community/"
+  link_text: "EAGE AI Committee"
+
+- date: "09/2020"
+  title: "ExxonMobil Internship" 
+  content: "Internship at ExxonMobil as Geoscience (ML) Intern, Houston, USA."
+  link: "https://corporate.exxonmobil.com/"
+  link_text: "ExxonMobil"
+
+- date: "07/2020"
+  title: "SEG 2020 Abstract"
+  content: "Conference abstract got accepted for an oral presentation at SEG 2020."
+  link: "https://library.seg.org/doi/abs/10.1190/segam2020-3427522.1"
+  link_text: "\"Extrapolating low-frequency prestack land data with deep learning\""
+
+
+- date: "03/2020"
+  title: "EAGE Digital 2020"
+  content: "Conference abstract got accepted for an oral presentation at EAGE Digital 2020."
+  link: "https://www.earthdoc.org/content/papers/10.3997/2214-4609.202032054"
+  link_text: "\"Deep Learning for Seismic Data Reconstruction: Opportunities and Challenges\""
+
+
+# - date: "09/2019"
+#   title: "SEG Annual Meeting 2019"
+#   content: "Vladimir Kazei presented our work on style transfer for generation of realistic subsurface models at SEG Annual Meeting 2019 in San Antonio, USA. Code available!"
+#   link: "https://github.com/ovcharenkoo/geo-style-keras"
+#   link_text: "Code available"
+#   commented: true
+
+- date: "08/2019"
+  title: "CGG Internship"
+  content: "Internship at CGG as ML Engineer Intern, Crawley, UK."
+  link: "https://www.cgg.com/en"
+  link_text: "CGG"
+
+- date: "06/2019"
+  title: "ExxonMobil Scholarship"
+  content: "Awarded SEG ExxonMobil Upstream Research Company scolarship for the year 2019-2020"
+
+# - date: "11/03/19"
+#   title: "EAGE 2019 Abstract"
+#   content: "Abstract \"Transfer learning for low frequency extrapolation from shot gathers for FWI applications\" got accepted for an oral presentation on June 6th at EAGE 2019 in London, UK."
+#   commented: true
+
+# - date: "29/01/19"
+#   title: "CUDA Code Release"
+#   content: "Published an easy to understand CUDA code for acoustic wave propagation in a 2D domain. This uses shared memory tiles on device to partially eliminate redundant memory reads"
+#   link: "https://github.com/ovcharenkoo/CUDA_FDTD_2D_acoustic_wave_propagation"
+#   link_text: "CUDA code for acoustic wave propagation"
+#   commented: true
+
+# - date: "19/10/18"
+#   title: "SEG 2018 Presentation"
+#   content: "Vladimir Kazei presented our work on frequency frequency-bandwidth extrapolation at SEG 2018 in Anaheim, USA"
+#   commented: true
+
+# - date: "17/09/18"
+#   title: "WaveProp in MATLAB Release"
+#   content: "Released v.1.0 WaveProp in MATLAB. Single-file scripts for 2D and 3D, acoustic and elastic FDTD wave propagation. Intended to be a set of simple codes for beginners"
+#   link: "https://ovcharenkoo.github.io/WaveProp_in_MATLAB/"
+#   link_text: "WaveProp in MATLAB"
+#   commented: true
+
+# - date: "07/09/18"
+#   title: "GEOPHYSICS Publication"
+#   content: "Our paper Variance-based model interpolation for improved full-waveform inversion in the presence of salt bodies got publised in GEOPHYSICS"
+#   link: "https://library.seg.org/doi/abs/10.1190/geo2017-0575.1"
+#   link_text: "Variance-based model interpolation for improved full-waveform inversion in the presence of salt bodies"
+#   commented: true
+
+# - date: "13/06/18"
+#   title: "EAGE 2018 Poster"
+#   content: "E-poster \"Low-Frequency Data Extrapolation Using a Feed-Forward ANN\" at EAGE 2018, Copenhagen, Denmark"
+#   link: "/assets/papers/Ovcharenko_EAGE_2018_blue.pdf"
+#   link_text: "Low-Frequency Data Extrapolation Using a Feed-Forward ANN"
+#   commented: true
+
+# - date: "06/03/18"
+#   title: "GEO 18 Presentation"
+#   content: "Presenting \"Feasibility of moment tensor inversion for a single-well microseismic data using neural networks\" at GEO 18, Manama, Bahrain"
+#   link: "/assets/papers/GEO_03_18_small.pdf"
+#   link_text: "Feasibility of moment tensor inversion for a single-well microseismic data using neural networks"
+#   commented: true
+
+# - date: "02/2018"
+#   title: "KAUST-NVIDIA Hackathon"
+#   content: "Won KAUST-NVIDIA Hackathon 2018. Together with Vladimir Kazei accelerated seismic wave propagation"
+#   link: "https://www.hpc.kaust.edu.sa/GPU-2018#Organizers"
+#   link_text: "KAUST-NVIDIA Hackathon 2018"
+
+# - date: "09/2017"
+#   title: "KAUST Innovation Fund Internship"
+#   content: "Internship at KAUST Innovation Fund. Market research and assisting with evaluation of venture capital opportunities"
+#   link: "https://innovation.kaust.edu.sa/"
+#   link_text: "KAUST Innovation Fund"
+
+# - date: "03/2017"
+#   title: "EAGE GeoQuiz"
+#   content: "3rd place worldwide in the EAGE GeoQuiz as a team"
+#   link: "https://smi.kaust.edu.sa/Pages/News-2017-03-15.aspx"
+#   link_text: "EAGE GeoQuiz"
+
+# - date: "02/2016"
+#   title: "Joined KAUST"
+#   content: "Joined KAUST pursuing PhD degree. Supervised by Prof. Daniel Peter and Prof. Tariq Alkhalifah"
+#   link1: "https://danielpeter.github.io/"
+#   link_text1: "Prof. Daniel Peter"
+#   link2: "https://scholar.google.com/citations?user=BvHOTiUAAAAJ&hl=en"
+#   link_text2: "Prof. Tariq Alkhalifah"
+
+# - date: "04/12/17"
+#   title: "SEG FWI Workshop"
+#   content: "Presenting at SEG FWI Workshop: Where are we getting? Talk: Neural network based low-frequency data extrapolation, Manama, Bahrain"
+#   link: "/assets/papers/Abstract_NN_OKPA_17.pdf"
+#   link_text: "Neural network based low-frequency data extrapolation"
+#   commented: true
+
+# - date: "14/06/17"
+#   title: "EAGE 2018 Presentation"
+#   content: "Presenting Variance-based salt body reconstruction at EAGE 2018, Paris, France"
+#   link: "/assets/papers/Ovcharenko_EAGE17.pdf"
+#   link_text: "Variance-based salt body reconstruction"
+#   commented: true
+
+# - date: "21/04/17"
+#   title: "Qualification Examination"
+#   content: "Successfully passed Qualification Examination at KAUST"
+#   commented: true 

@@ -6,3 +6,40 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Custom styling for news section
+.news-container {
+  margin-bottom: 1.5rem;
+  font-size: 0.82em;
+  line-height: 1.4;
+  
+  .news-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .news-item {
+    margin-bottom: 0.3rem;
+    padding-bottom: 0.3rem;
+  }
+  
+  .date {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .news-image {
+    margin: 0.4rem 0;
+    
+    img {
+      max-width: 100%;
+      border-radius: 3px;
+    }
+  }
+}
+
+// Text with link color
+.link-colored-text {
+  color: $link-color;
+}
