@@ -1,6 +1,7 @@
 ---
 title: "How to set Matlab default colormap"
 excerpt: "Change default colormap in Matlab"
+description: "Quick tip for changing MATLAB's default colormap from Parula to Jet or any other colormap using set(groot) command"
 tags:
   - Matlab
 ---

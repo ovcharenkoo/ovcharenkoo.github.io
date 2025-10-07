@@ -1,6 +1,7 @@
 ---
 title: "Compare Latex documents with latexdiff on Mac"
 excerpt: "Simple way to compare Latex documents"
+description: "Quick guide to using latexdiff command-line tool on Mac for comparing and highlighting differences between LaTeX document versions"
 tags:
   - Latex
 ---

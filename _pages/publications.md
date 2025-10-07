@@ -2,6 +2,7 @@
 layout: archive
 permalink: /publications/
 title: "Publications"
+description: "Research publications by Oleg Ovcharenko on deep learning, seismic full-waveform inversion, neural networks for geophysics, and AI applications in energy. View full list on Google Scholar and ResearchGate"
 ---
 
 Click here --> [ **Google Scholar** ](https://scholar.google.com/citations?user=MX75GS8AAAAJ&hl=fr) <-- to check FULL LIST of publications. 

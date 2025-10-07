@@ -1,5 +1,7 @@
 ---
 title: "Transparent background when saving figures in Matlab (e.g png, eps etc.)"
+excerpt: "How to save MATLAB figures with transparent backgrounds"
+description: "Tutorial on saving MATLAB figures with transparent backgrounds using export_fig function for PNG, EPS, PDF formats - perfect for presentations and LaTeX documents"
 tags:
   - Matlab
 ---

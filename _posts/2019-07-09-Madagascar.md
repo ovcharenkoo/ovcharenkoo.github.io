@@ -1,6 +1,7 @@
 ---
 title: "Useful commands for data processing in Madagascar"
 excerpt: "Disconnected code snippets"
+description: "Quick reference guide for Madagascar seismic processing software - commands for reading SEGY files, plotting RSF data, and windowing operations"
 tags:
   - Madagascar
 ---

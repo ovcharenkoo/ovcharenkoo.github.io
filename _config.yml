@@ -12,12 +12,12 @@ locale                   : "en"
 title                    : "Oleg Ovcharenko"
 title_separator          : "|"
 name                     : &name "Oleg Ovcharenko, PhD"
-description              : "This is personal website of Oleg Ovcharenko"
-url                      : "https://ovcharenkoo.github.io"
+description              : "AI & Energy expert at NVIDIA specializing in industrial agentic AI, Large Language Models, and HPC applications for oil & gas and renewable energy sectors"
+url                      : "https://oovcharenko.com"
 baseurl                  : ""  # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ovcharenkoo/ovcharenkoo.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -72,9 +72,13 @@ og_image                 : "/assets/images/OvcharenkoOleg.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Oleg Ovcharenko"
+  links:
+    - "https://www.linkedin.com/in/ovcharenkoo"
+    - "https://github.com/ovcharenkoo"
+    - "https://scholar.google.com/citations?user=MX75GS8AAAAJ"
+    - "https://www.researchgate.net/profile/Oleg_Ovcharenko"
 
 # Analytics
 analytics:
