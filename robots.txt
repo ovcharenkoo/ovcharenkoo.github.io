@@ -4,4 +4,4 @@ Disallow: /assets/js/
 Disallow: /assets/css/
 
 # Sitemaps
-Sitemap: https://oovcharenko.com/sitemap.xml
+Sitemap: https://ovcharenkoo.com/sitemap.xml
